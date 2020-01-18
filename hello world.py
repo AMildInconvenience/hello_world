@@ -2,9 +2,9 @@ import datetime
 
 print(datetime.datetime.now())
 
-print("Hello, world!")
+print("Hello, bird!")
 
-print("Good bye!")
+print("Good bai!")
 
 name = str(input("what is your name?\n"))
 print("Hello "+name+"!")
