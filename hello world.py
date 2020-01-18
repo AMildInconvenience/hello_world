@@ -9,7 +9,7 @@ print('this will not create a conflict!')
 print('hello world')
 print("Hello, bird!")
 
-print("11111111111111111111111")
+print("this is the one to keep if there is a conflict")
 
 
 name = str(input("what is your name?\n"))
