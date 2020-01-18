@@ -16,4 +16,4 @@ print("this is the one to keep if there is a conflict")
 name = str(input("what is your name?\n"))
 print("Hello "+name+"!")
 
-print("math")
+print("maaaaaaaath")
